@@ -1,0 +1,2 @@
+# DjangoTextUtils
+Simple django project
